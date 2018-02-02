@@ -18,3 +18,4 @@ node exercises/01_hello.js
 ## Exercises
 
 - `exercises/01_hello.js` - my first program, printing to the console.
+- `exercises/02_variables.js` - var, let and const, and why const is preferred.
