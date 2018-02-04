@@ -19,3 +19,4 @@ node exercises/01_hello.js
 
 - `exercises/01_hello.js` - my first program, printing to the console.
 - `exercises/02_variables.js` - var, let and const, and why const is preferred.
+- `exercises/03_data_types.js` - primitive types and the typeof operator (with its quirks).
