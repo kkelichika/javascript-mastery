@@ -22,3 +22,4 @@ node exercises/01_hello.js
 - `exercises/03_data_types.js` - primitive types and the typeof operator (with its quirks).
 - `exercises/04_strings.js` - strings, template literals and common string methods.
 - `exercises/05_numbers.js` - numbers, the Math object, and converting strings to numbers.
+- `exercises/06_operators.js` - operators, == vs === , logical operators and truthy/falsy values.
