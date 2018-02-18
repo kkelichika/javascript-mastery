@@ -27,3 +27,4 @@ node exercises/01_hello.js
 - `exercises/08_loops.js` - for, while, for...of and for...in loops, plus break/continue.
 - `exercises/09_functions.js` - function declarations vs expressions, and hoisting.
 - `exercises/10_arrow_functions.js` - arrow functions and implicit returns.
+- `exercises/11_parameters.js` - default parameters and rest parameters.
