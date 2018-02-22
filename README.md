@@ -29,3 +29,4 @@ node exercises/01_hello.js
 - `exercises/10_arrow_functions.js` - arrow functions and implicit returns.
 - `exercises/11_parameters.js` - default parameters and rest parameters.
 - `exercises/12_scope.js` - global, function and block scope.
+- `exercises/13_arrays.js` - arrays and basic methods (push, pop, slice, spread).
