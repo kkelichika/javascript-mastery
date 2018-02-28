@@ -32,3 +32,15 @@ node exercises/01_hello.js
 - `exercises/13_arrays.js` - arrays and basic methods (push, pop, slice, spread).
 - `exercises/14_array_iteration.js` - looping over arrays with forEach, for...of and entries().
 - `exercises/15_objects.js` - objects, methods, `this`, and Object.keys/values.
+- `exercises/16_mini_projects.js` - FizzBuzz and a temperature converter, putting the basics together.
+
+## What I have learned so far
+
+- Printing to the console and declaring variables with let/const.
+- The basic data types and the `typeof` operator.
+- Strings and template literals.
+- Numbers, the Math object, and truthy/falsy values.
+- Conditionals (if/else, switch, ternary) and loops.
+- Writing functions, arrow functions, and default/rest parameters.
+- Scope (global, function and block).
+- Arrays and objects, and how to loop over them.
