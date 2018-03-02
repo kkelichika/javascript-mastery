@@ -33,6 +33,7 @@ node exercises/01_hello.js
 - `exercises/14_array_iteration.js` - looping over arrays with forEach, for...of and entries().
 - `exercises/15_objects.js` - objects, methods, `this`, and Object.keys/values.
 - `exercises/16_mini_projects.js` - FizzBuzz and a temperature converter, putting the basics together.
+- `exercises/17_array_map.js` - transforming arrays with map().
 
 ## What I have learned so far
 
