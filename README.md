@@ -35,6 +35,7 @@ node exercises/01_hello.js
 - `exercises/16_mini_projects.js` - FizzBuzz and a temperature converter, putting the basics together.
 - `exercises/17_array_map.js` - transforming arrays with map().
 - `exercises/18_array_filter.js` - keeping only matching items with filter().
+- `exercises/19_array_reduce.js` - boiling an array down to one value with reduce().
 
 ## What I have learned so far
 
