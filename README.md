@@ -36,6 +36,7 @@ node exercises/01_hello.js
 - `exercises/17_array_map.js` - transforming arrays with map().
 - `exercises/18_array_filter.js` - keeping only matching items with filter().
 - `exercises/19_array_reduce.js` - boiling an array down to one value with reduce().
+- `exercises/20_find_some_every.js` - find, findIndex, some and every.
 
 ## What I have learned so far
 
