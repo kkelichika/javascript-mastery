@@ -38,6 +38,7 @@ node exercises/01_hello.js
 - `exercises/19_array_reduce.js` - boiling an array down to one value with reduce().
 - `exercises/20_find_some_every.js` - find, findIndex, some and every.
 - `exercises/21_array_sort.js` - sorting with sort() and compare functions (and its gotchas).
+- `exercises/22_method_chaining.js` - chaining filter/map/sort/reduce to process data.
 
 ## What I have learned so far
 
