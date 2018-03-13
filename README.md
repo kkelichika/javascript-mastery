@@ -39,6 +39,7 @@ node exercises/01_hello.js
 - `exercises/20_find_some_every.js` - find, findIndex, some and every.
 - `exercises/21_array_sort.js` - sorting with sort() and compare functions (and its gotchas).
 - `exercises/22_method_chaining.js` - chaining filter/map/sort/reduce to process data.
+- `exercises/23_array_destructuring.js` - pulling values out of arrays with destructuring.
 
 ## What I have learned so far
 
