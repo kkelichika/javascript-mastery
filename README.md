@@ -43,6 +43,7 @@ node exercises/01_hello.js
 - `exercises/24_object_destructuring.js` - destructuring objects, renaming, defaults and nesting.
 - `exercises/25_spread_arrays.js` - copying and combining arrays with the spread operator.
 - `exercises/26_spread_objects.js` - copying, updating and merging objects immutably with spread/rest.
+- `exercises/27_object_methods.js` - Object.keys/values/entries/fromEntries/assign/freeze.
 
 ## What I have learned so far
 
