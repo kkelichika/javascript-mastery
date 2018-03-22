@@ -44,6 +44,7 @@ node exercises/01_hello.js
 - `exercises/25_spread_arrays.js` - copying and combining arrays with the spread operator.
 - `exercises/26_spread_objects.js` - copying, updating and merging objects immutably with spread/rest.
 - `exercises/27_object_methods.js` - Object.keys/values/entries/fromEntries/assign/freeze.
+- `exercises/28_object_shorthand.js` - property/method shorthand and computed property names.
 
 ## What I have learned so far
 
