@@ -45,6 +45,7 @@ node exercises/01_hello.js
 - `exercises/26_spread_objects.js` - copying, updating and merging objects immutably with spread/rest.
 - `exercises/27_object_methods.js` - Object.keys/values/entries/fromEntries/assign/freeze.
 - `exercises/28_object_shorthand.js` - property/method shorthand and computed property names.
+- `exercises/29_set_and_map.js` - the Set (unique values) and Map (any-type keys) collections.
 
 ## What I have learned so far
 
