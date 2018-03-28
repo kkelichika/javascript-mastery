@@ -47,6 +47,7 @@ node exercises/01_hello.js
 - `exercises/28_object_shorthand.js` - property/method shorthand and computed property names.
 - `exercises/29_set_and_map.js` - the Set (unique values) and Map (any-type keys) collections.
 - `exercises/30_json.js` - JSON.stringify and JSON.parse, deep copying, and parse errors.
+- `exercises/31_data_processing.js` - mini project: analysing a list of orders with map/filter/reduce/sort.
 
 ## What I have learned so far
 
