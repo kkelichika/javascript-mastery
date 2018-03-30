@@ -48,6 +48,7 @@ node exercises/01_hello.js
 - `exercises/29_set_and_map.js` - the Set (unique values) and Map (any-type keys) collections.
 - `exercises/30_json.js` - JSON.stringify and JSON.parse, deep copying, and parse errors.
 - `exercises/31_data_processing.js` - mini project: analysing a list of orders with map/filter/reduce/sort.
+- `exercises/32_group_by.js` - mini project: a reusable groupBy helper built with reduce.
 
 ## What I have learned so far
 
@@ -59,3 +60,8 @@ node exercises/01_hello.js
 - Writing functions, arrow functions, and default/rest parameters.
 - Scope (global, function and block).
 - Arrays and objects, and how to loop over them.
+- The big array methods: map, filter, reduce, find, some, every and sort.
+- Chaining array methods to process data step by step.
+- Destructuring arrays and objects, and the spread/rest operators.
+- Object helper methods (keys, values, entries) and shorthand syntax.
+- Set and Map collections, and working with JSON.
