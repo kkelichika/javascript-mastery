@@ -51,6 +51,7 @@ node exercises/01_hello.js
 - `exercises/32_group_by.js` - mini project: a reusable groupBy helper built with reduce.
 - `exercises/33_callbacks.js` - passing functions as callbacks (functions are first-class).
 - `exercises/34_higher_order_functions.js` - functions that take or return other functions.
+- `exercises/35_returning_functions.js` - function factories that build specialized functions.
 
 ## What I have learned so far
 
