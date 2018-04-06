@@ -52,6 +52,7 @@ node exercises/01_hello.js
 - `exercises/33_callbacks.js` - passing functions as callbacks (functions are first-class).
 - `exercises/34_higher_order_functions.js` - functions that take or return other functions.
 - `exercises/35_returning_functions.js` - function factories that build specialized functions.
+- `exercises/36_closures.js` - closures: inner functions remembering their outer variables.
 
 ## What I have learned so far
 
