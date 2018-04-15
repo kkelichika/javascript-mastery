@@ -57,6 +57,7 @@ node exercises/01_hello.js
 - `exercises/38_this_keyword.js` - how `this` depends on how a function is called.
 - `exercises/39_call_apply_bind.js` - controlling `this` with call, apply and bind.
 - `exercises/40_arrow_this.js` - how arrow functions borrow `this` from where they are written.
+- `exercises/41_iife.js` - immediately invoked function expressions and the module pattern.
 
 ## What I have learned so far
 
