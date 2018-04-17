@@ -58,6 +58,7 @@ node exercises/01_hello.js
 - `exercises/39_call_apply_bind.js` - controlling `this` with call, apply and bind.
 - `exercises/40_arrow_this.js` - how arrow functions borrow `this` from where they are written.
 - `exercises/41_iife.js` - immediately invoked function expressions and the module pattern.
+- `exercises/42_recursion.js` - recursion: base case and recursive case (countdown, factorial, sum).
 
 ## What I have learned so far
 
