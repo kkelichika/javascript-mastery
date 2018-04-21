@@ -60,6 +60,7 @@ node exercises/01_hello.js
 - `exercises/41_iife.js` - immediately invoked function expressions and the module pattern.
 - `exercises/42_recursion.js` - recursion: base case and recursive case (countdown, factorial, sum).
 - `exercises/43_recursion_examples.js` - recursion on nested structures (flatten, reverse, file tree).
+- `exercises/44_currying.js` - currying functions one argument at a time, with a generic curry() helper.
 
 ## What I have learned so far
 
