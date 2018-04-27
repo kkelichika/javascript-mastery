@@ -63,6 +63,7 @@ node exercises/01_hello.js
 - `exercises/44_currying.js` - currying functions one argument at a time, with a generic curry() helper.
 - `exercises/45_partial_application.js` - fixing some arguments up front with partial application and bind.
 - `exercises/46_composition.js` - function composition with compose() and pipe().
+- `exercises/47_debounce_throttle.js` - debounce and throttle, built with closures and timers.
 
 ## What I have learned so far
 
