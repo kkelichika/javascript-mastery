@@ -64,6 +64,7 @@ node exercises/01_hello.js
 - `exercises/45_partial_application.js` - fixing some arguments up front with partial application and bind.
 - `exercises/46_composition.js` - function composition with compose() and pipe().
 - `exercises/47_debounce_throttle.js` - debounce and throttle, built with closures and timers.
+- `exercises/48_memoize_project.js` - mini project: a memoize() utility (closures + higher-order functions).
 
 ## What I have learned so far
 
@@ -80,3 +81,8 @@ node exercises/01_hello.js
 - Destructuring arrays and objects, and the spread/rest operators.
 - Object helper methods (keys, values, entries) and shorthand syntax.
 - Set and Map collections, and working with JSON.
+- Callbacks and higher-order functions (passing and returning functions).
+- Closures, private state and the module pattern.
+- How `this` works, and controlling it with call/apply/bind and arrow functions.
+- IIFEs, recursion, currying, partial application and function composition.
+- Practical patterns: debounce, throttle and memoize.
