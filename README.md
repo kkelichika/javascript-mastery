@@ -65,6 +65,7 @@ node exercises/01_hello.js
 - `exercises/46_composition.js` - function composition with compose() and pipe().
 - `exercises/47_debounce_throttle.js` - debounce and throttle, built with closures and timers.
 - `exercises/48_memoize_project.js` - mini project: a memoize() utility (closures + higher-order functions).
+- `exercises/49_timers.js` - setTimeout, setInterval and a first look at the event loop.
 
 ## What I have learned so far
 
