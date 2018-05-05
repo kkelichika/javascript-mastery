@@ -67,6 +67,7 @@ node exercises/01_hello.js
 - `exercises/48_memoize_project.js` - mini project: a memoize() utility (closures + higher-order functions).
 - `exercises/49_timers.js` - setTimeout, setInterval and a first look at the event loop.
 - `exercises/50_callback_hell.js` - the nested-callback "pyramid of doom" that Promises solve.
+- `exercises/51_promises_intro.js` - creating and reading Promises with then/catch.
 
 ## What I have learned so far
 
