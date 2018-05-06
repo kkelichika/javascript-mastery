@@ -68,6 +68,7 @@ node exercises/01_hello.js
 - `exercises/49_timers.js` - setTimeout, setInterval and a first look at the event loop.
 - `exercises/50_callback_hell.js` - the nested-callback "pyramid of doom" that Promises solve.
 - `exercises/51_promises_intro.js` - creating and reading Promises with then/catch.
+- `exercises/52_promise_chaining.js` - chaining .then() steps and returning promises (flattening the pyramid).
 
 ## What I have learned so far
 
