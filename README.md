@@ -71,6 +71,7 @@ node exercises/01_hello.js
 - `exercises/52_promise_chaining.js` - chaining .then() steps and returning promises (flattening the pyramid).
 - `exercises/53_promise_errors.js` - error handling with .catch(), recovering and where catch belongs.
 - `exercises/54_promise_all.js` - running promises in parallel with Promise.all.
+- `exercises/55_promise_race.js` - Promise.race, timeouts, and a hand-rolled allSettled helper.
 
 ## What I have learned so far
 
