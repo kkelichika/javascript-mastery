@@ -73,6 +73,7 @@ node exercises/01_hello.js
 - `exercises/54_promise_all.js` - running promises in parallel with Promise.all.
 - `exercises/55_promise_race.js` - Promise.race, timeouts, and a hand-rolled allSettled helper.
 - `exercises/56_async_await.js` - async/await: writing async code that reads top-to-bottom.
+- `exercises/57_async_error_handling.js` - handling async errors with try/catch and a to() helper.
 
 ## What I have learned so far
 
