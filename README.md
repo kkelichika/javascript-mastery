@@ -76,6 +76,7 @@ node exercises/01_hello.js
 - `exercises/57_async_error_handling.js` - handling async errors with try/catch and a to() helper.
 - `exercises/58_sequential_vs_parallel.js` - running awaited tasks in sequence vs in parallel.
 - `exercises/59_fetch_intro.js` - making HTTP requests with fetch (and checking response.ok).
+- `exercises/60_fetch_post.js` - POST/PUT with fetch and a reusable api() wrapper.
 
 ## What I have learned so far
 
