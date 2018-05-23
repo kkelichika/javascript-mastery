@@ -77,6 +77,7 @@ node exercises/01_hello.js
 - `exercises/58_sequential_vs_parallel.js` - running awaited tasks in sequence vs in parallel.
 - `exercises/59_fetch_intro.js` - making HTTP requests with fetch (and checking response.ok).
 - `exercises/60_fetch_post.js` - POST/PUT with fetch and a reusable api() wrapper.
+- `exercises/61_promisify.js` - wrapping error-first callbacks into promise-returning functions.
 
 ## What I have learned so far
 
