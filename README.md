@@ -78,6 +78,7 @@ node exercises/01_hello.js
 - `exercises/59_fetch_intro.js` - making HTTP requests with fetch (and checking response.ok).
 - `exercises/60_fetch_post.js` - POST/PUT with fetch and a reusable api() wrapper.
 - `exercises/61_promisify.js` - wrapping error-first callbacks into promise-returning functions.
+- `exercises/62_retry.js` - an async retry helper with exponential backoff.
 
 ## What I have learned so far
 
