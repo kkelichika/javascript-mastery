@@ -80,6 +80,7 @@ node exercises/01_hello.js
 - `exercises/61_promisify.js` - wrapping error-first callbacks into promise-returning functions.
 - `exercises/62_retry.js` - an async retry helper with exponential backoff.
 - `exercises/63_async_sequence.js` - processing a list in series and with a concurrency limit (forEach gotcha).
+- `exercises/64_async_project.js` - mini project: a small async data client (promises, await, retry, Promise.all).
 
 ## What I have learned so far
 
@@ -101,3 +102,7 @@ node exercises/01_hello.js
 - How `this` works, and controlling it with call/apply/bind and arrow functions.
 - IIFEs, recursion, currying, partial application and function composition.
 - Practical patterns: debounce, throttle and memoize.
+- Async JavaScript: timers, the event loop and the callback-hell problem.
+- Promises: then/catch, chaining, error handling, Promise.all and Promise.race.
+- async/await with try/catch, and sequential vs parallel execution.
+- Making HTTP requests with fetch (GET and POST), plus retry and concurrency helpers.
