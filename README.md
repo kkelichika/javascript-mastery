@@ -82,6 +82,7 @@ node exercises/01_hello.js
 - `exercises/63_async_sequence.js` - processing a list in series and with a concurrency limit (forEach gotcha).
 - `exercises/64_async_project.js` - mini project: a small async data client (promises, await, retry, Promise.all).
 - `exercises/65_constructors.js` - constructor functions and the `new` keyword (pre-class OOP).
+- `exercises/66_prototypes.js` - putting shared methods on the prototype instead of each instance.
 
 ## What I have learned so far
 
