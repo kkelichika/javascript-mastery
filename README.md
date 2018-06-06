@@ -84,6 +84,7 @@ node exercises/01_hello.js
 - `exercises/65_constructors.js` - constructor functions and the `new` keyword (pre-class OOP).
 - `exercises/66_prototypes.js` - putting shared methods on the prototype instead of each instance.
 - `exercises/67_prototype_chain.js` - the prototype chain and how property lookup walks up it.
+- `exercises/68_classes.js` - ES6 class syntax (sugar over constructors and prototypes).
 
 ## What I have learned so far
 
