@@ -85,6 +85,7 @@ node exercises/01_hello.js
 - `exercises/66_prototypes.js` - putting shared methods on the prototype instead of each instance.
 - `exercises/67_prototype_chain.js` - the prototype chain and how property lookup walks up it.
 - `exercises/68_classes.js` - ES6 class syntax (sugar over constructors and prototypes).
+- `exercises/69_class_getters_setters.js` - class getters and setters for computed/validated properties.
 
 ## What I have learned so far
 
