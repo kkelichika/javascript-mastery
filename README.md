@@ -86,6 +86,7 @@ node exercises/01_hello.js
 - `exercises/67_prototype_chain.js` - the prototype chain and how property lookup walks up it.
 - `exercises/68_classes.js` - ES6 class syntax (sugar over constructors and prototypes).
 - `exercises/69_class_getters_setters.js` - class getters and setters for computed/validated properties.
+- `exercises/70_static_methods.js` - static methods/properties and factory methods.
 
 ## What I have learned so far
 
