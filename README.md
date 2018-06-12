@@ -87,6 +87,7 @@ node exercises/01_hello.js
 - `exercises/68_classes.js` - ES6 class syntax (sugar over constructors and prototypes).
 - `exercises/69_class_getters_setters.js` - class getters and setters for computed/validated properties.
 - `exercises/70_static_methods.js` - static methods/properties and factory methods.
+- `exercises/71_inheritance.js` - class inheritance with extends.
 
 ## What I have learned so far
 
