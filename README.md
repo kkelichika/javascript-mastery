@@ -88,6 +88,7 @@ node exercises/01_hello.js
 - `exercises/69_class_getters_setters.js` - class getters and setters for computed/validated properties.
 - `exercises/70_static_methods.js` - static methods/properties and factory methods.
 - `exercises/71_inheritance.js` - class inheritance with extends.
+- `exercises/72_super_override.js` - overriding methods and calling the parent with super.
 
 ## What I have learned so far
 
