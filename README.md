@@ -90,6 +90,7 @@ node exercises/01_hello.js
 - `exercises/71_inheritance.js` - class inheritance with extends.
 - `exercises/72_super_override.js` - overriding methods and calling the parent with super.
 - `exercises/73_encapsulation.js` - keeping data private with the underscore convention and closures.
+- `exercises/74_polymorphism.js` - shared method names across classes, plus duck typing.
 
 ## What I have learned so far
 
