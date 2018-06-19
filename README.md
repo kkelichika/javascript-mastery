@@ -91,6 +91,7 @@ node exercises/01_hello.js
 - `exercises/72_super_override.js` - overriding methods and calling the parent with super.
 - `exercises/73_encapsulation.js` - keeping data private with the underscore convention and closures.
 - `exercises/74_polymorphism.js` - shared method names across classes, plus duck typing.
+- `exercises/75_error_classes.js` - custom error types by extending Error, checked with instanceof.
 
 ## What I have learned so far
 
