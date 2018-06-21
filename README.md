@@ -92,6 +92,7 @@ node exercises/01_hello.js
 - `exercises/73_encapsulation.js` - keeping data private with the underscore convention and closures.
 - `exercises/74_polymorphism.js` - shared method names across classes, plus duck typing.
 - `exercises/75_error_classes.js` - custom error types by extending Error, checked with instanceof.
+- `exercises/76_es_modules.js` + `exercises/lib/mathUtils.js` - ES modules with named export/import.
 
 ## What I have learned so far
 
