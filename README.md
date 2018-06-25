@@ -94,6 +94,7 @@ node exercises/01_hello.js
 - `exercises/75_error_classes.js` - custom error types by extending Error, checked with instanceof.
 - `exercises/76_es_modules.js` + `exercises/lib/mathUtils.js` - ES modules with named export/import.
 - `exercises/77_default_exports.js` + `exercises/lib/User.js` - default exports vs named exports.
+- `exercises/78_composition.js` - composition over inheritance: mixing in abilities.
 
 ## What I have learned so far
 
