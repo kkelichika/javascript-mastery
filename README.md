@@ -95,6 +95,7 @@ node exercises/01_hello.js
 - `exercises/76_es_modules.js` + `exercises/lib/mathUtils.js` - ES modules with named export/import.
 - `exercises/77_default_exports.js` + `exercises/lib/User.js` - default exports vs named exports.
 - `exercises/78_composition.js` - composition over inheritance: mixing in abilities.
+- `exercises/79_class_this_pitfalls.js` - the "lost this" problem in class methods and how to fix it.
 
 ## What I have learned so far
 
