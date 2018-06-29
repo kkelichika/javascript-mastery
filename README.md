@@ -96,6 +96,7 @@ node exercises/01_hello.js
 - `exercises/77_default_exports.js` + `exercises/lib/User.js` - default exports vs named exports.
 - `exercises/78_composition.js` - composition over inheritance: mixing in abilities.
 - `exercises/79_class_this_pitfalls.js` - the "lost this" problem in class methods and how to fix it.
+- `exercises/80_oop_project.js` - mini project: a small library system (inheritance, errors, statics, polymorphism).
 
 ## What I have learned so far
 
@@ -121,3 +122,7 @@ node exercises/01_hello.js
 - Promises: then/catch, chaining, error handling, Promise.all and Promise.race.
 - async/await with try/catch, and sequential vs parallel execution.
 - Making HTTP requests with fetch (GET and POST), plus retry and concurrency helpers.
+- How objects really work: constructor functions, prototypes and the prototype chain.
+- ES6 classes: methods, getters/setters, static members, inheritance and super.
+- Encapsulation, polymorphism, custom error classes and composition over inheritance.
+- ES modules (named and default exports) and the "lost this" pitfall in class methods.
