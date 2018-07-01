@@ -97,6 +97,7 @@ node exercises/01_hello.js
 - `exercises/78_composition.js` - composition over inheritance: mixing in abilities.
 - `exercises/79_class_this_pitfalls.js` - the "lost this" problem in class methods and how to fix it.
 - `exercises/80_oop_project.js` - mini project: a small library system (inheritance, errors, statics, polymorphism).
+- `exercises/81_npm_notes.md` - notes on npm and package.json (start of the tooling month).
 
 ## What I have learned so far
 

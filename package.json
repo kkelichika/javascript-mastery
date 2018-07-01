@@ -1,0 +1,16 @@
+{
+  "name": "javascript-mastery",
+  "version": "1.0.0",
+  "description": "My journey learning JavaScript from the ground up, one small exercise at a time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node exercises/01_hello.js"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "exercises"
+  ],
+  "author": "kkelichika",
+  "license": "MIT"
+}
