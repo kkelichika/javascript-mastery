@@ -4,7 +4,10 @@
   "description": "My journey learning JavaScript from the ground up, one small exercise at a time.",
   "main": "index.js",
   "scripts": {
-    "start": "node exercises/01_hello.js"
+    "start": "node exercises/01_hello.js",
+    "hello": "node exercises/01_hello.js",
+    "greet": "echo \"Keep learning, kkelichika!\"",
+    "pretest": "echo \"running tests...\""
   },
   "keywords": [
     "javascript",
