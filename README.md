@@ -99,6 +99,7 @@ node exercises/01_hello.js
 - `exercises/80_oop_project.js` - mini project: a small library system (inheritance, errors, statics, polymorphism).
 - `exercises/81_npm_notes.md` - notes on npm and package.json (start of the tooling month).
 - `exercises/82_npm_scripts.md` - notes on npm scripts and pre/post hooks.
+- `exercises/83_babel_notes.md` + `.babelrc` - Babel: transpiling modern JS to run everywhere.
 
 ## What I have learned so far
 
