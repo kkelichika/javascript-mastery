@@ -101,6 +101,7 @@ node exercises/01_hello.js
 - `exercises/82_npm_scripts.md` - notes on npm scripts and pre/post hooks.
 - `exercises/83_babel_notes.md` + `.babelrc` - Babel: transpiling modern JS to run everywhere.
 - `webpack.config.js` + `src/` - Webpack: bundling modules into one file (with babel-loader).
+- `exercises/85_eslint_notes.md` + `.eslintrc.json` - ESLint: catching mistakes and enforcing style.
 
 ## What I have learned so far
 

@@ -8,6 +8,7 @@
     "hello": "node exercises/01_hello.js",
     "greet": "echo \"Keep learning, kkelichika!\"",
     "build": "webpack",
+    "lint": "eslint exercises src",
     "pretest": "echo \"running tests...\""
   },
   "keywords": [
