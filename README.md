@@ -102,6 +102,7 @@ node exercises/01_hello.js
 - `exercises/83_babel_notes.md` + `.babelrc` - Babel: transpiling modern JS to run everywhere.
 - `webpack.config.js` + `src/` - Webpack: bundling modules into one file (with babel-loader).
 - `exercises/85_eslint_notes.md` + `.eslintrc.json` - ESLint: catching mistakes and enforcing style.
+- `exercises/86_prettier_notes.md` + `.prettierrc.json` - Prettier: automatic, consistent formatting.
 
 ## What I have learned so far
 
