@@ -10,7 +10,7 @@
     "build": "webpack",
     "lint": "eslint exercises src",
     "format": "prettier --write \"exercises/**/*.js\" \"src/**/*.js\"",
-    "pretest": "echo \"running tests...\""
+    "test": "jest"
   },
   "keywords": [
     "javascript",

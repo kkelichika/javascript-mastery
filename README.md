@@ -103,6 +103,7 @@ node exercises/01_hello.js
 - `webpack.config.js` + `src/` - Webpack: bundling modules into one file (with babel-loader).
 - `exercises/85_eslint_notes.md` + `.eslintrc.json` - ESLint: catching mistakes and enforcing style.
 - `exercises/86_prettier_notes.md` + `.prettierrc.json` - Prettier: automatic, consistent formatting.
+- `exercises/87_jest_notes.md` + `src/lib/stringUtils.js` (+ tests) - Jest: my first automated tests.
 
 ## What I have learned so far
 
