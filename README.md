@@ -104,6 +104,7 @@ node exercises/01_hello.js
 - `exercises/85_eslint_notes.md` + `.eslintrc.json` - ESLint: catching mistakes and enforcing style.
 - `exercises/86_prettier_notes.md` + `.prettierrc.json` - Prettier: automatic, consistent formatting.
 - `exercises/87_jest_notes.md` + `src/lib/stringUtils.js` (+ tests) - Jest: my first automated tests.
+- `exercises/88_jest_matchers.md` + `src/lib/arrayUtils.js` (+ tests) - Jest matchers (toBe, toEqual, toThrow, etc.).
 
 ## What I have learned so far
 
