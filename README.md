@@ -107,6 +107,7 @@ node exercises/01_hello.js
 - `exercises/88_jest_matchers.md` + `src/lib/arrayUtils.js` (+ tests) - Jest matchers (toBe, toEqual, toThrow, etc.).
 - `exercises/89_jest_async_notes.md` + `src/lib/asyncUtils.js` (+ tests) - testing async code with Jest.
 - `exercises/90_jest_mocking.md` + `src/lib/notifier.js` (+ tests) - mocking with jest.fn() and dependency injection.
+- `src/todo/todoList.js` (+ tests) - project: a tested TodoList module (add/toggle/remove/filter).
 
 ## What I have learned so far
 
