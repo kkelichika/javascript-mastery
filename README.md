@@ -108,6 +108,7 @@ node exercises/01_hello.js
 - `exercises/89_jest_async_notes.md` + `src/lib/asyncUtils.js` (+ tests) - testing async code with Jest.
 - `exercises/90_jest_mocking.md` + `src/lib/notifier.js` (+ tests) - mocking with jest.fn() and dependency injection.
 - `src/todo/todoList.js` (+ tests) - project: a tested TodoList module (add/toggle/remove/filter).
+- `src/calculator/calculator.js` (+ tests) - project: a calculator with an expression evaluator (test.each).
 
 ## What I have learned so far
 
