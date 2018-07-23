@@ -109,6 +109,7 @@ node exercises/01_hello.js
 - `exercises/90_jest_mocking.md` + `src/lib/notifier.js` (+ tests) - mocking with jest.fn() and dependency injection.
 - `src/todo/todoList.js` (+ tests) - project: a tested TodoList module (add/toggle/remove/filter).
 - `src/calculator/calculator.js` (+ tests) - project: a calculator with an expression evaluator (test.each).
+- `src/quiz/` - project: a quiz engine (tested) with a separate readline CLI front-end.
 
 ## What I have learned so far
 
