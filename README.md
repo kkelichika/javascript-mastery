@@ -110,6 +110,7 @@ node exercises/01_hello.js
 - `src/todo/todoList.js` (+ tests) - project: a tested TodoList module (add/toggle/remove/filter).
 - `src/calculator/calculator.js` (+ tests) - project: a calculator with an expression evaluator (test.each).
 - `src/quiz/` - project: a quiz engine (tested) with a separate readline CLI front-end.
+- `src/data/userClient.js` (+ tests) - project: an API client tested with a mocked fetch.
 
 ## What I have learned so far
 
