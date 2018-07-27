@@ -111,6 +111,7 @@ node exercises/01_hello.js
 - `src/calculator/calculator.js` (+ tests) - project: a calculator with an expression evaluator (test.each).
 - `src/quiz/` - project: a quiz engine (tested) with a separate readline CLI front-end.
 - `src/data/userClient.js` (+ tests) - project: an API client tested with a mocked fetch.
+- `src/lib/funcUtils.js` (+ tests) - a tested functional utility library (once, memoize, pipe, curry).
 
 ## What I have learned so far
 
