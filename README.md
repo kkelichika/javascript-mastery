@@ -1,11 +1,32 @@
 # javascript-mastery
 
 My journey learning JavaScript from the ground up, one small exercise at a time.
+It runs from February to July 2018 - from `console.log("Hello")` all the way to
+a properly tooled, tested project setup. Next stop: React.
 
 ## Goal
 
 Get comfortable with modern JavaScript (ES2015+), step by step, and then move
 on to building things with React.
+
+## Project structure
+
+```
+.
+├── exercises/        # numbered learning exercises and notes (the main journey)
+│   └── lib/          # tiny modules used by the module exercises
+├── src/              # tooling-era code and small tested projects
+│   ├── lib/          # utility libraries with Jest tests
+│   ├── todo/         # a tested TodoList module
+│   ├── calculator/   # a tested calculator + expression evaluator
+│   ├── quiz/         # a quiz engine (tested) + a readline CLI
+│   └── data/         # an API client tested with a mocked fetch
+├── package.json      # scripts and dependencies
+├── .babelrc          # Babel config
+├── webpack.config.js # Webpack bundling config
+├── .eslintrc.json    # ESLint rules
+└── .prettierrc.json  # Prettier formatting
+```
 
 ## How to run
 
@@ -13,6 +34,15 @@ Most exercises are plain Node.js scripts. Run one like this:
 
 ```
 node exercises/01_hello.js
+```
+
+## Scripts
+
+```
+npm test       # run the Jest test suite
+npm run lint   # check code with ESLint
+npm run format # format code with Prettier
+npm run build  # bundle src/ with Webpack
 ```
 
 ## Exercises
@@ -112,6 +142,7 @@ node exercises/01_hello.js
 - `src/quiz/` - project: a quiz engine (tested) with a separate readline CLI front-end.
 - `src/data/userClient.js` (+ tests) - project: an API client tested with a mocked fetch.
 - `src/lib/funcUtils.js` (+ tests) - a tested functional utility library (once, memoize, pipe, curry).
+- `exercises/96_wrap_up.md` - looking back on six months of JavaScript, and what comes next.
 
 ## What I have learned so far
 
@@ -141,3 +172,14 @@ node exercises/01_hello.js
 - ES6 classes: methods, getters/setters, static members, inheritance and super.
 - Encapsulation, polymorphism, custom error classes and composition over inheritance.
 - ES modules (named and default exports) and the "lost this" pitfall in class methods.
+- Project tooling: npm and package.json, npm scripts, Babel, Webpack, ESLint and Prettier.
+- Automated testing with Jest: matchers, async tests, mocking, and test-friendly module design.
+- Building small, tested projects (to-do list, calculator, quiz engine, API client, utility library).
+
+## Where I am headed next
+
+After six months on the language and tooling, I feel ready to start building
+real user interfaces. Next up: **React** - components, props and state,
+lifecycle, and a few small apps. A lot of what I learned here (arrow
+functions, `this`, immutability with spread, modules, composition, testing)
+is exactly what React leans on, so the timing feels right.
